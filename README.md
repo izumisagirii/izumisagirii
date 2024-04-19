@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izumisagirii&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![izumisagirii's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izumisagirii)
 
