@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm 闪电法师  
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://img.shields.io/static/v1?label=wechat&message=15153092613&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/izumisagirii)
+![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://img.shields.io/static/v1?label=wechat&message=the_electro_wizard&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/izumisagirii)
 
 <!--
 **izumisagirii/izumisagirii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
